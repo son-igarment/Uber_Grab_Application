@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "uber",
-    "slug": "uber",
+    "name": "Ride-Sharing by Phạm Lê Ngọc Sơn",
+    "slug": "ride-sharing-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -30,7 +30,7 @@
       [
         "expo-router",
         {
-          "origin": "https://uber.dev/"
+          "origin": "https://ridesharing.phamngocson.dev/"
         }
       ]
     ],
